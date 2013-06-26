@@ -20,4 +20,4 @@ curl -X GET http://localhost:7474/unmanagedscala/service/fof/300
 {"300":23201}
 ```
 
-`fofallnodes` gives a count of all friends of friends for each node... try it. :)
+`fofallnodes` gives a count of all friends of friends for each node... try it (if your graph isn't too big). :)
